@@ -83,12 +83,10 @@ Average ratings per location
 
 BI Application Wireframe design:
 
-Use correct file path here to show picture of Wireframe design...
 ![Alt text](https://github.com/jinote/my-projects/blob/main/9440-Project/BI_Wireframe.jpg)
 
 Picture of final Dashboard:
 
-Use correct file path here to show picture of Dashboard...
 ![Alt text](https://github.com/jinote/my-projects/blob/main/9440-Project/Dashboard.jpg)
 
 ### Deployment
