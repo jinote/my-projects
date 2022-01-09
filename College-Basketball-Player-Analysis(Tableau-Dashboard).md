@@ -1,4 +1,4 @@
-## College Basketball Players Analysis
+## College Basketball Player Analysis
 
 ![Alt text](https://github.com/jinote/my-projects/blob/main/picture/Datavis1.jpg)
 
