@@ -33,6 +33,7 @@ Some key arguments that I used:
 
 
 **Step4**: Visualizing and Analysis on Kibana (OpenSearch Dashboard)
+![Alt text](https://github.com/jinote/my-projects/blob/main/9440-Project/BI_Wireframe.jpg)
 
 
 
