@@ -22,7 +22,7 @@ Data link: https://dev.socrata.com/foundry/data.cityofnewyork.us/nc67-uf89
 Some key arguments that I used:
 - APP_TOKEN: This is how a user can pass along an APP_TOKEN for the API in a safe manner.
 - bigdataproject1:1.0 This is the name of my docker image. 
-- ES_HOST: This is the domain endpoint of your Elasticsearch cluster.
+- ES_HOST: This is the domain endpoint of my Elasticsearch cluster.
 - page_size (required): This command line argument is required. It asks for how many records to request from the API per call. 
 - num_pages (optional): This command line argument is optional. If not provided, my script should continue requesting data until the entirety of the content has been exhausted. If this argument is provided, continue querying for data num_pages times. 
 
