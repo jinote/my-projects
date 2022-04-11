@@ -169,7 +169,8 @@ if __name__ == '__main__':
 
 **Step4**: Visualizing and Analysis on Kibana (OpenSearch Dashboard)
 ![Alt text](https://github.com/jinote/my-projects/blob/main/BigDataTech/Kibana%20Dashboard.jpg)
-<br>
+
+
 **Observation:**
 1. In photo school zone speed violation points, parking violations have occured the most for the past 10 years (2012-2021)
 2. Parking violations mostly occured in the morning. 11:30AM was the time when it occured most.  
